@@ -1,0 +1,10 @@
+This is a modified version of the Samsung Galaxy S's FMRadio.apk.
+
+The stock FMRadio.apk supports three regions but it is restrained from displaying the third (Japan).
+
+This unlocks "Japan" which supports a different frequency range.
+
+USA 87.5MHz - 108MHz
+Europe 87.5MHz - 108MHz
+Japan 76MHz -108MHz
+
