@@ -1,0 +1,12 @@
+/com/sec/android/app/fm/SettingRegionActivity$MyAdapter.smali
+
+# virtual methods
+.method public getCount()I
+    .registers 2
+
+    .prologue
+    .line 117
+    const/4 v0, 0x2 // 0x2 -> 0x3
+
+    return v0
+.end method
