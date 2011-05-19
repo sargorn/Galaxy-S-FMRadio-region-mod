@@ -1,0 +1,4 @@
+ui_print("Restoring Stock FMRadio.apk"); 
+mount("MTD", "system", "/system");
+package_extract_dir("app", "/system/app"); 
+unmount("/system");

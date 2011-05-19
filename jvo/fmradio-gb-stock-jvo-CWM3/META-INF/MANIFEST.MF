@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: p50xNSjQ9JRukhPPl9p33r9orZA=
+
+Name: app/FMRadio.apk
+SHA1-Digest: 3WleUEjz0SW5TKcmsw/U0n/1Uak=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: e+Q+7e6BhnRKje9GgIyDekPdrws=
+
